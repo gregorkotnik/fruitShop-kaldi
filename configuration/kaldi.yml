@@ -1,0 +1,7 @@
+database:
+    driverClass: com.mysql.cj.jdbc.Driver
+    user: root
+    password: admin
+    url: jdbc:mysql://localhost:3306/kaldi
+    properties:
+       charSet: UTF-8
